@@ -27,7 +27,7 @@
       }
     },
     "winImageVersion": {
-      "type": "string",
+      "type": "string"
     },
     "vmLocation": {
       "type": "string",
