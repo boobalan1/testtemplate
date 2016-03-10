@@ -1,0 +1,51 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmName": {
+      "value": "VMbb1"
+    },
+    "vmSize": {
+      "value": "Standard_A0"
+    },
+    "winImageOffer": {
+      "value": "WindowsServer"
+    },
+    "winImageSku": {
+      "value": "2012-Datacenter"
+    },
+    "winImageVersion": {
+      "value": "latest"
+    },
+    "vmLocation": {
+      "value": "West US"
+    },
+    "username": {
+      "value": "boobalanadmin"
+    },
+    "password": {
+      "value": "AdminPassword1"
+    },
+    "storageName": {
+      "value": "boobalanstorage"
+    },
+    "storageType": {
+      "value": "Standard_LRS"
+    },
+    "vnetName": {
+      "value": "BBVNet1"
+    },
+    "networkAddressSpace": {
+      "value": "15.0.0.0/16"
+    },
+    "subnetName": {
+      "value": "Subnet2BB"
+    },
+    "subnetAddressPrefix": {
+      "value": "15.0.9.0/24"
+    },    
+    "publicDnsName": {
+      "value": "balan2"
+    }
+  }
+}
