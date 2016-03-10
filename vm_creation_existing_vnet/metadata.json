@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Create new VM in an Existing Vnet.",
+  "description": "This template allows you to crreate a VM in an Existing VNET",
+  "summary": "Create VM in Existing VNET",
+  "githubUsername": "boobalan",
+  "dateUpdated": "2016-03-01"
+}
