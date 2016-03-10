@@ -3,5 +3,6 @@
   "description": "This template allows you to crreate a Vnet and create two subnets in the VNET",
   "summary": "Create VNET and subnet",
   "githubUsername": "boobalan",
+  {
   "dateUpdated": "2016-03-01"
 }
